@@ -15,6 +15,7 @@ For Windows users:
 For Linux/Mac users:
 * Download and install Oldflash's [mod](https://www.gamefront.com/games/knights-of-the-old-republic-ii/file/lightsaber-replacement-hilts).
 * Download [the fix patch](https://github.com/DarthParametric/TSL_Blade_Stuck_On_Fix_For_Oldflash_Lightsaber_Replacement_Hilts/releases/latest).
+* Extract the patch archive into your TSL Override folder.
 * Download [HDiffPatch](https://github.com/sisong/HDiffPatch/releases/latest) and extract the appropriate hpatchz binary for your OS, or compile from source.
 * Put the hpatchz binary in your Override folder alongside the patch contents.
 * Run the commands `hpatchz -f w_lghtsbr_008.mdl oldflashpatch008a w_lghtsbr_008.mdl` and `hpatchz -f w_lghtsbr_008.mdx oldflashpatch008b w_lghtsbr_008.mdx` in a terminal.
