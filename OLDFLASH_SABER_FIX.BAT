@@ -1,6 +1,6 @@
 @echo off
 
-Title "[TSL] Blade Fix For Oldflash Hilts v1.1"
+Title "[TSL] Blade Fix For Oldflash Hilts"
 
 echo:
 echo   Applying fix for the extended blade issue in Oldflash's lightsaber hilts.
