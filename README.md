@@ -1,4 +1,4 @@
-# [TSL] Blade Stuck On Fix For Oldflash's "Lightsaber Replacement Hilts" and ""Short Lightsaber Replacement Hilts Mods
+# [TSL] Blade Stuck On Fix For Oldflash's "Lightsaber Replacement Hilts" and "Short Lightsaber Replacement Hilts" Mods
 
 This is a patch for the turquoise bladed hilt (w_lghtsbr_008) and the bronze bladed short hilt (w_shortsbr_006) in Oldflash's [Lightsaber Replacement Hilts](https://www.gamefront.com/games/knights-of-the-old-republic-ii/file/lightsaber-replacement-hilts) and [Short Lightsaber Replacement Hilts](https://www.gamefront.com/games/knights-of-the-old-republic-ii/file/short-lightsaber-replacement-hilts) (respectively) mods. The have the same issue that the original turquoise hilt in K1 had, where the blade would be stuck on/activated when transitioning to a new module until the player performed a flourish, engaged in combat, or otherwise triggered a lightsaber animation that reset the blade. This is due to Bioware misconfiguring the original model, created for the Yavin DLC for K1, where the scale on the blade planes was erroneously set to 1 instead of 0. 
 
