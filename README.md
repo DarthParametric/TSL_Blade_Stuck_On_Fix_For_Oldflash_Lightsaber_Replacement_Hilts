@@ -20,8 +20,8 @@ For Linux/Mac users:
 * Put the hpatchz binary in your Override folder alongside the patch contents.
 * Run the following commands in a terminal:
 ```
-hpatchz -f w_lghtsbr_008.mdl oldflashpatch008a w_lghtsbr_008.mdl
-hpatchz -f w_lghtsbr_008.mdx oldflashpatch008b w_lghtsbr_008.mdx
-hpatchz -f w_shortsbr_006.mdl oldflashpatchs006a w_shortsbr_006.mdl
-hpatchz -f w_shortsbr_006.mdx oldflashpatchs006b w_shortsbr_006.mdx
+./hpatchz -f w_lghtsbr_008.mdl oldflashpatch008a w_lghtsbr_008.mdl
+./hpatchz -f w_lghtsbr_008.mdx oldflashpatch008b w_lghtsbr_008.mdx
+./hpatchz -f w_shortsbr_006.mdl oldflashpatchs006a w_shortsbr_006.mdl
+./hpatchz -f w_shortsbr_006.mdx oldflashpatchs006b w_shortsbr_006.mdx
 ```
