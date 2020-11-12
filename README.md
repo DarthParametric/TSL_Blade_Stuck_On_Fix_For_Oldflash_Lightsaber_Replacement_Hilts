@@ -18,7 +18,8 @@ For Linux/Mac users:
 * Extract the patch archive into your TSL Override folder.
 * Download [HDiffPatch](https://github.com/sisong/HDiffPatch/releases/latest) and extract the appropriate hpatchz binary for your OS, or compile from source.
 * Put the hpatchz binary in your Override folder alongside the patch contents.
-* Run the following commands in a terminal:
+* Open a terminal window and change your working directory to the Override folder.
+* Run the following commands:
 ```
 ./hpatchz -f w_lghtsbr_008.mdl oldflashpatch008a w_lghtsbr_008.mdl
 ./hpatchz -f w_lghtsbr_008.mdx oldflashpatch008b w_lghtsbr_008.mdx
