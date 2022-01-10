@@ -19,6 +19,7 @@ For Linux/Mac users:
 * Download [HDiffPatch](https://github.com/sisong/HDiffPatch/releases/latest) and extract the appropriate hpatchz binary for your OS, or compile from source.
 * Put the hpatchz binary in your Override folder alongside the patch contents.
 * Open a terminal window and change your working directory to the Override folder.
+* Make sure hpatchz is executable with `chmod +x ./hpatchz`
 * Run the following commands:
 ```
 ./hpatchz -f w_lghtsbr_008.mdl oldflashpatch008a w_lghtsbr_008.mdl
